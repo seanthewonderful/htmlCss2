@@ -1,0 +1,43 @@
+
+body {
+    margin: 0
+}
+
+header {
+    display: flex;
+    background-color: lightgray;
+    height: 150px;
+}
+
+span {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 10px;
+    left: 10px;
+    background-color: dodgerblue;
+}
+
+.horizontals {
+    height: 200px;
+}
+
+.whitetext {
+    height: 250px;
+}
+
+#blue {
+    background-color: dodgerblue;
+}
+
+#teal {
+    background-color: teal;
+}
+
+#green {
+    background-color: olive;
+}
+
+#yellow {
+    background-color: gold;
+}
